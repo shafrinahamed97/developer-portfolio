@@ -1,7 +1,7 @@
 body {
     font-family: 'Fredoka', sans-serif;
     font-family: 'Libre Baskerville', serif;
-    font-family: 'Mr Bedfort', cursive;
+    font-family: 'Mr Bedfort', 'cursive';
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -22,7 +22,7 @@ h1 {
 
 section {
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 
 .half {
@@ -37,6 +37,7 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
 
 
 
