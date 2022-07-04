@@ -38,6 +38,11 @@ section {
     background-position: right;
 }
 
+.flexible-container {
+    display: flex;
+    margin-left: 2%;
+}
+
 
 
 
